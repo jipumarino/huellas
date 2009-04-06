@@ -9,7 +9,7 @@ $menu_items = array(
 
 foreach($menu_items as $item) {
   echo  "<li";
-  if($item == $_GET["page"]) {
+  if($item == $page) {
     echo " class='current_page_item'";
   }
   echo "><a href='?page=$item'>".ucwords($item)."</a></li>\n";
