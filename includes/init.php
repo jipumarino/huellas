@@ -1,6 +1,6 @@
 <?php
 
-$SECTIONS_DIR='sections'
+$SECTIONS_DIR='sections';
 
 $title = 'Centro de Atención<br />Psicológica Huellas';
 $page = $_GET['page'];
