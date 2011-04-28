@@ -1,9 +1,11 @@
 <?php
 $menu_items = array(
   'inicio',
-  'convenios',
+  'noticias',
+//  'convenios',
   'programas',
   'profesionales',
+	'publicaciones',
   'contacto'
    );
 

@@ -14,22 +14,27 @@ body {
 	color: #837669;
 }
 
-h1, h2, h3 {
-	margin: 0;
+h1, h2, h3, h4 {
+	margin-top: 10px;
+    margin-bottom:0px;
 	font-family: Georgia, "Times New Roman", Times, serif;
 	font-weight: normal;
 	color: #649632;
 }
 
-h1 { font-size: 44px; }
 
-h2 { font-size: 26px; }
+h1 { font-size: 38px; }
 
-h3 { }
+h2 { font-size: 20px; font-weight: bold}
+
+h3 { font-size: 16px; }
+
+h4 { font-size: 12px; }
 
 p, ul, ol {
-	margin-bottom: 25px;
-	line-height: 200%;
+    margin-top: 5px;
+	margin-bottom: 15px;
+	line-height: 120%;
 	text-align: justify;
 	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
 	font-size: 13px;
