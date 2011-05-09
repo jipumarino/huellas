@@ -115,6 +115,16 @@ jQuery(function(){
 <a name="psicologos_adultos"><h2 class="title">Psicólogos de adultos</h2></a>
 <div class="grupo">
 <div class="entry">
+  <h3>Mariela Campos Urra</h3>
+  <ul>
+    <li>Psicóloga Clínica Universidad Diego Portales. Orientación Familiar Sistémica.</li>
+    <li>Formación en Reducción de daños para Abordaje de Adicciones.</li>
+    <li>Orientación en terapias alternativas, Flores de Bach y Reiki.</li>
+    <li>Experiencia en tratamiento de adicciones, violencia intrafamiliar, trastornos ansiosos y depresivos, trastornos conductuales.</li>
+    <li>Atención clínica de adolescentes, parejas y adultos.</li>
+  </ul>
+</div>
+<div class="entry">
   <h3>Francisco Mahaluf Pinto</h3>
   <ul>
     <li>Psicólogo Universidad Diego Portales.</li>
